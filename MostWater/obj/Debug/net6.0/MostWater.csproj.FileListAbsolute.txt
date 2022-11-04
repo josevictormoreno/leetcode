@@ -1,0 +1,15 @@
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.csproj.AssemblyReference.cache
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.GeneratedMSBuildEditorConfig.editorconfig
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.AssemblyInfoInputs.cache
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.AssemblyInfo.cs
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.csproj.CoreCompileInputs.cache
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/MostWater
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/MostWater.deps.json
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/MostWater.runtimeconfig.json
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/MostWater.dll
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/ref/MostWater.dll
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/bin/Debug/net6.0/MostWater.pdb
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.dll
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/ref/MostWater.dll
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.pdb
+/home/nriskdev2/Documents/josevictor/leetcode/MostWater/obj/Debug/net6.0/MostWater.genruntimeconfig.cache

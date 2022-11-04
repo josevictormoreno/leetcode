@@ -1,0 +1,15 @@
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ReverseVowels
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ReverseVowels.deps.json
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ReverseVowels.runtimeconfig.json
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ReverseVowels.dll
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ref/ReverseVowels.dll
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/bin/Debug/net6.0/ReverseVowels.pdb
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.csproj.AssemblyReference.cache
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.GeneratedMSBuildEditorConfig.editorconfig
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.AssemblyInfoInputs.cache
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.AssemblyInfo.cs
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.csproj.CoreCompileInputs.cache
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.dll
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ref/ReverseVowels.dll
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.pdb
+/home/nriskdev2/Documents/josevictor/leetcode/ReverseVowels/obj/Debug/net6.0/ReverseVowels.genruntimeconfig.cache
