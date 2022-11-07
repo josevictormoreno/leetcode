@@ -4,7 +4,7 @@
     {
         Console.WriteLine(StringtoInteger("-91283472332"));
     }
-
+    
     public static int StringtoInteger(string numero)
     {
         var i = numero.Length - 1;
